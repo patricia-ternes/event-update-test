@@ -46,6 +46,24 @@
     - 2 Days
     - Online
 
+- code: test1
+  dates:
+    - 2024-05-23
+  tags:
+    - test
+
+- code: test2
+  dates:
+    - 2024-05-24
+  tags:
+    - test
+
+- code: test3
+  dates:
+    - 2024-05-25
+  tags:
+    - test    
+    
 - code: HPC0
   dates:
     - 2024-06-19
