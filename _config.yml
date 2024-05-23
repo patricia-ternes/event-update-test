@@ -22,12 +22,12 @@ author: RCLeeds
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://arc.leeds.ac.uk'
+url: 'https://patricia-ternes.github.io/event-update-test'
 #baseurl: '/home'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/ARCLeeds/arcleeds.github.io
+improve_content: https://patricia-ternes.github.io/event-update-test
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
