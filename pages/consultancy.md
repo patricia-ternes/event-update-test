@@ -4,17 +4,30 @@ permalink: "/consulting/"
 breadcrumb: true
 ---
 
+<details>
+	<summary>Click to expand</summary>
+
 The Research Software Engineering (RSE) service within Research Computing offers specialist software development consultancy, code development expertise and access to tools, platforms and training to research projects at the University of Leeds.
 
-### Our Service
+</details>
 
-__We are a diverse team of Research Software Engineers__ with a broad skill set from database solutions, grid and parallel computing to data science and AI. We have extensive experience of high performance computing and have supported research across the entire University. You can meet members of the team via the [Team page]({{ site.baseurl }}/about/team/).
+<details>
+	<summary>Click to expand</summary>
+    <pre>
 
-__We can contribute impact at every stage of your project__ from the earliest stages of grant preparation, through to code development and preparing code for publication. We help researchers ensure their projects meet the stringent funder requirements for research reproducibility and software longevity.
+    ### Our Service
 
-__We deliver maintainable, reliant and scalable solutions__ that can be designed for any specific fixed term engagement. We can offer consultancy services from the short-term to long-term, part- or full-time, and can be costed into grant applications or charged at a daily rate.
+    __We are a diverse team of Research Software Engineers__ with a broad skill set from database solutions, grid and parallel computing to data science and AI. We have extensive experience of high performance computing and have supported research across the entire University. You can meet members of the team via the [Team page]({{ site.baseurl }}/about/team/).
 
-__We design and deliver teaching and training__ - researchers can attend our open access training or we can work with your group to design something bespoke.  Members of our team are qualified and experienced teachers and trainers.
+    __We can contribute impact at every stage of your project__ from the earliest stages of grant preparation, through to code development and preparing code for publication. We help researchers ensure their projects meet the stringent funder requirements for research reproducibility and software longevity.
+
+    __We deliver maintainable, reliant and scalable solutions__ that can be designed for any specific fixed term engagement. We can offer consultancy services from the short-term to long-term, part- or full-time, and can be costed into grant applications or charged at a daily rate.
+
+    __We design and deliver teaching and training__ - researchers can attend our open access training or we can work with your group to design something bespoke.  Members of our team are qualified and experienced teachers and trainers.
+
+	</pre>
+
+</details>
 
 Areas that we work in include:
 
